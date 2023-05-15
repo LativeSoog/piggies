@@ -1,0 +1,22 @@
+.header {
+    text-align: center;
+}
+
+.header__text {
+    font-size: 18px;
+}
+
+.main {
+    display: flex;
+    justify-content: center;
+    column-gap: 20px;
+}
+
+.main__button {
+    font-size: 20px;
+    border-radius: 10px;
+    text-decoration: none;
+    border: 2px solid rgb(255, 175, 189);
+    background-color: rgb(255, 226, 231);
+    padding: 10px;
+}
